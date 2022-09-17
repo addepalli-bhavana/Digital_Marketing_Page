@@ -5,6 +5,7 @@
   list-style-type: none;
   font-family: poppins;
 }
+/* nav-bar */
 nav {
   display: flex;
   align-items: center;
@@ -35,6 +36,7 @@ nav div img {
 .nav-button.btn {
   padding: 13px 40px;
 }
+/* banner-section-right-image */
 .banner-container div img {
   position: absolute;
   right: 0px;
@@ -42,6 +44,7 @@ nav div img {
   height: 80vh;
   width: 60vw;
 }
+/* banner-container-left-text */
 .banner-container div:first-child {
   padding: 80px 0px;
   padding-right: 950px;
@@ -59,6 +62,7 @@ nav div img {
 span {
   color: #5955b3;
 }
+/* hover-effect */
 li:hover {
   opacity: unset;
   cursor: pointer;
